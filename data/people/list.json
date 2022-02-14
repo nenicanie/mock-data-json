@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "birth_year": 1986,
+    "eye_color": "Blue",
+    "gender": "Male",
+    "hair_color": "Dark",
+    "height": "172",
+    "birthtown": "New York",
+    "mass": "77",
+    "name": "Luke Longside",
+    "thumb": "https://media.istockphoto.com/photos/handsome-manly-male-model-with-facial-hair-picture-id669735700?s=612x612"
+  },
+  {
+    "id": 2,
+    "birth_year": 2001,
+    "eye_color": "Blue",
+    "gender": "Female",
+    "hair_color": "Blond",
+    "height": "163",
+    "birthtown": "New York",
+    "mass": "52",
+    "name": "Maria Lou",
+    "thumb": "https://media.istockphoto.com/photos/young-longhared-woman-looking-at-camera-picture-id1308650093?s=612x612"
+  },
+  {
+    "id": 3,
+    "birth_year": 1993,
+    "eye_color": "Dark",
+    "gender": "Male",
+    "hair_color": "Dark",
+    "height": "182",
+    "birthtown": "London",
+    "mass": "82",
+    "name": "Philph Stules",
+    "thumb": "https://media.istockphoto.com/photos/profile-view-of-handsome-man-with-blond-hair-looking-at-camera-picture-id1257882624?s=612x612"
+  },
+  {
+    "id": 4,
+    "birth_year": 1998,
+    "eye_color": "Blue",
+    "gender": "Male",
+    "hair_color": "Blond",
+    "height": "188",
+    "birthtown": "Oslo",
+    "mass": "77",
+    "name": "Muss Gethero",
+    "thumb": "https://media.istockphoto.com/photos/young-man-with-spiky-hair-picture-id187142202?s=612x612"
+  },
+  {
+    "id": 5,
+    "birth_year": 2001,
+    "eye_color": "Blue",
+    "gender": "Female",
+    "hair_color": "Blond",
+    "height": "167",
+    "birthtown": "Paris",
+    "mass": "57",
+    "name": "Maria Lou",
+    "thumb": "https://media.istockphoto.com/photos/young-women-in-yellow-jumper-at-the-studio-on-the-red-background-picture-id1209281153?s=612x612"
+  }
+]
