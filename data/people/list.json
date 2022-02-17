@@ -9,7 +9,8 @@
     "birthtown": "New York",
     "mass": "77",
     "name": "Luke Longside",
-    "thumb": "https://media.istockphoto.com/photos/handsome-manly-male-model-with-facial-hair-picture-id669735700?s=612x612"
+    "thumb": "https://media.istockphoto.com/photos/handsome-manly-male-model-with-facial-hair-picture-id669735700?s=612x612",
+    "description": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
   },
   {
     "id": 2,
@@ -21,7 +22,9 @@
     "birthtown": "New York",
     "mass": "52",
     "name": "Maria Lou",
-    "thumb": "https://media.istockphoto.com/photos/young-longhared-woman-looking-at-camera-picture-id1308650093?s=612x612"
+    "title": "HR manager",
+    "thumb": "https://media.istockphoto.com/photos/young-longhared-woman-looking-at-camera-picture-id1308650093?s=612x612",
+    "description": "voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "id": 3,
@@ -33,7 +36,9 @@
     "birthtown": "London",
     "mass": "82",
     "name": "Philph Stules",
-    "thumb": "https://media.istockphoto.com/photos/profile-view-of-handsome-man-with-blond-hair-looking-at-camera-picture-id1257882624?s=612x612"
+    "title": "Developer",
+    "thumb": "https://media.istockphoto.com/photos/profile-view-of-handsome-man-with-blond-hair-looking-at-camera-picture-id1257882624?s=612x612",
+    "description": "From its medieval origins to the digital era, learn everything there is to know about the ubiquitous lorem ipsum passage."
   },
   {
     "id": 4,
@@ -45,7 +50,9 @@
     "birthtown": "Oslo",
     "mass": "77",
     "name": "Muss Gethero",
-    "thumb": "https://media.istockphoto.com/photos/young-man-with-spiky-hair-picture-id187142202?s=612x612"
+    "title": "Seles",
+    "thumb": "https://media.istockphoto.com/photos/young-man-with-spiky-hair-picture-id187142202?s=612x612",
+    "description": "The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout."
   },
   {
     "id": 5,
@@ -57,6 +64,8 @@
     "birthtown": "Paris",
     "mass": "57",
     "name": "Maria Lou",
-    "thumb": "https://media.istockphoto.com/photos/young-women-in-yellow-jumper-at-the-studio-on-the-red-background-picture-id1209281153?s=612x612"
+    "title": "Designer",
+    "thumb": "https://media.istockphoto.com/photos/young-women-in-yellow-jumper-at-the-studio-on-the-red-background-picture-id1209281153?s=612x612",
+    "description": "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. “It's not Latin, though it looks like it, and it actually says nothing,” Before & After magazine"
   }
 ]
